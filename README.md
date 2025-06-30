@@ -27,8 +27,6 @@
   </a>
 </div>
 
----
-
 
 ###
 <div align="center" dir="auto">
